@@ -20,7 +20,7 @@ Here are the steps that I took during the session:
 6. Merged the changes from the new branch back into the main branch using the `git merge` command.
 7. Created a new repository on GitHub and pushed the changes from my local repository to the GitHub repository using the `git push` command.
 
-During these steps, I encountered some issues, such as merge conflicts and errors when pushing to GitHub, but was able to resolve them with the help of my instructor Guidlines.
+During these steps, I encountered some issues, such as merge conflicts and errors when pushing to GitHub, but was able to resolve them with the help of my instructor Guidelines.
 
 ## Reflection
 Overall, I found my first session in version control system to be very informative and useful. I learned a lot about the basics of Git and how to use it to manage my code and collaborate with others. I can see how version control system can save time and reduce errors in my work, and I look forward to using it in future projects.
